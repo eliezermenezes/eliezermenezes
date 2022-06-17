@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Eliezer dos Santos Menezes, I’m a Software Test Analyst at FPF Tech.
+- 👀 I’m interested in Cypress and VueJS advanced courses.
+- 🌱 I’m currently learning Cypress and VueJS.
+- 💞️ I love working with automated tests, but I'm also a programmer and admirer of clean code and good practices
+- 📫 How to reach me: www.linkedin.com/in/eliezer-dos-santos-menezes-0892a0139
